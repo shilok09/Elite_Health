@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/shilok09/elite-health-web-prototype.git
+   git clone https://github.com/shilok09/Elite_Health.git
    cd elite-health-web-prototype
    ```
 2. **Open the project:**
